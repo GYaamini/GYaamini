@@ -23,7 +23,7 @@
 - [📚 Contact Management Application](https://github.com/GYaamini/Contact-Book-Fullstack) – React + Flask + Dash Interactive Dashboad + SQLite + Render Automated Deploy + Docker Containerization  
 - [🚗 Car Dalership Web Application](https://github.com/GYaamini/Car_Dealership_fullstack_developer_capstone) – React + Django + MongoDB + Microservice + Docker Containerization
 
-### **🔗️ Other Project**
+### **🔗️ Other Projects**
 - **[Simple Graph to Matrix in Computer Vision](https://github.com/GYaamini/Simple-graph-to-matrix-in-ComputerVision)** - From graph image to Adjacency and Incidence Matrix 
 
 - **[Number Theory in Python](https://github.com/GYaamini/NumberTheory-Implementation-Python)** - Chinese Reminder Theorem, Factorization of cubic/ Nth order equation, and Inverse of a or value of b of a congruence in the form of a*b congruent to m (mod n)
