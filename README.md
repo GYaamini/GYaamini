@@ -8,25 +8,26 @@
 `Python` `SQL` `Pandas` `Matplotlib` `Plotly` `OpenCV` `TensorFlow` `ML` `DL` `Dash` `ETL` 
 
 ### **Full Stack Development**  
-`Python` `JavaScript` `React` `Node.js` `Flask` `Django` `SQLite` `MongoDB` `Docker` `REST APIs` `DevOps` `CI/CD`
+`Python` `JavaScript` `React` `Node.js` `Flask` `FastApi` `Django` `SQLite` `MongoDB` `Docker` `REST APIs` `DevOps` `CI/CD`
 
 ---
 ## **Highlighted Projects**  
 
 ### **📊 AI and Data Science Projects**  
 - [🚀 SpaceX Rocket Landing Prediction](https://github.com/GYaamini/Applied-Data-Science-Capstone-Project) – ML model with 83% accuracy  
-- [🕉️ EDA on Root of Sanskrit Words](https://www.kaggle.com/code/hsgowriyaamini/sanskrit-words-data-cleaning-and-visualisation/notebook?scriptVersionId=231168219) - Data Collection + Data Cleaning + EDA
-- [🧠 Exploring Mental Health and Classification](https://www.kaggle.com/competitions/playground-series-s4e11/leaderboard) - Ensemble models + KFold Cross Validation with 93.7% accuracy
+- [🕉️ EDA on Root of Sanskrit Words](https://www.kaggle.com/code/hsgowriyaamini/sanskrit-words-data-cleaning-and-visualisation/notebook?scriptVersionId=231168219) – Data Collection + Data Cleaning + EDA
+- [🧠 Exploring Mental Health and Classification](https://www.kaggle.com/competitions/playground-series-s4e11/leaderboard) – Ensemble models + KFold Cross Validation with 93.7% accuracy
 - [🍕 Karnataka Snack Recognition](https://github.com/GYaamini/Karnataka-Snacks-Recognition)  – ResNet50 Transfer-Learning model with 94.5% Accuracy
  
-### **💻 Full-Stack Projects**  
+### **💻 Full-Stack Projects** 
+- [🤖 AI Assistants Suite](https://github.com/GYaamini/AI-Assistants-Fullstack) – React + FastApi + Gradio Interface + AI tools (LLMs, RAG with LangChain, Watsonx STT & TTS),  + Docker Containerization
 - [📚 Contact Management Application](https://github.com/GYaamini/Contact-Book-Fullstack) – React + Flask + Dash Interactive Dashboad + SQLite + Render Automated Deploy + Docker Containerization  
 - [🚗 Car Dalership Web Application](https://github.com/GYaamini/Car_Dealership_fullstack_developer_capstone) – React + Django + MongoDB + Microservice + Docker Containerization
 
 ### **🔗️ Other Projects**
-- **[Simple Graph to Matrix in Computer Vision](https://github.com/GYaamini/Simple-graph-to-matrix-in-ComputerVision)** - From graph image to Adjacency and Incidence Matrix 
+- **[Simple Graph to Matrix in Computer Vision](https://github.com/GYaamini/Simple-graph-to-matrix-in-ComputerVision)** – From graph image to Adjacency and Incidence Matrix 
 
-- **[Number Theory in Python](https://github.com/GYaamini/NumberTheory-Implementation-Python)** - Chinese Reminder Theorem, Factorization of cubic/ Nth order equation, and Inverse of a or value of b of a congruence in the form of a*b congruent to m (mod n)
+- **[Number Theory in Python](https://github.com/GYaamini/NumberTheory-Implementation-Python)** – Chinese Reminder Theorem, Factorization of cubic/ Nth order equation, and Inverse of a or value of b of a congruence in the form of a*b congruent to m (mod n)
 
 ### **Activities**  
 - **Smart India Hackathon 2023 Finalists for PS-1498:** [🔍Video and Audio Proctoring for Remote Exams](https://github.com/GYaamini/Video-Audio-Proctoring) 
