@@ -20,7 +20,7 @@
 - [🍕 Karnataka Snack Recognition](https://github.com/GYaamini/Karnataka-Snacks-Recognition)  – ResNet50 Transfer-Learning model with 94.5% Accuracy
  
 ### **💻 Full-Stack Projects** 
-- [📝 AI-Powered Journal App](https://github.com/GYaamini/Journal-App-Fullstack-RAG) - MERN Stack + Microservice: FastApi + AI tools (GPT-4o LLM and RAG with LangChain) + Docker Containerization + Render Deployment
+- [📝 AI-Powered Journal Application](https://github.com/GYaamini/Journal-App-Fullstack-RAG) - MERN Stack + Microservice: FastApi + AI tools (GPT-4o LLM and RAG with LangChain) + Docker Containerization + Render Deployment
 - [🤖 AI Assistants Suite](https://github.com/GYaamini/AI-Assistants-Fullstack) – React + FastApi + Gradio Interface + AI tools (LLMs, RAG with LangChain, Watsonx STT & TTS),  + Docker Containerization
 - [📚 Contact Management Application](https://github.com/GYaamini/Contact-Book-Fullstack) – React + Flask + Dash Interactive Dashboad + SQLite + Render Automated Deploy + Docker Containerization  + Render Deployment
 - [🚗 Car Dalership Web Application](https://github.com/GYaamini/Car_Dealership_fullstack_developer_capstone) – React + Django + MongoDB + Microservice + Docker Containerization
