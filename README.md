@@ -14,6 +14,7 @@
 ## **Highlighted Projects**  
 
 ### **📊 AI and Data Science Projects**  
+- [📞 e-GMAT Sales Call Transcripts Analysis](https://github.com/GYaamini/e-GMAT-SalesCall-Transcripts-Analysis) - Data Preparation (Annotation, Classification, Emotion and Keyword Detection, Segmentation) + Data Visualization + Data Presentation (React + Flask + SQLite3 + MongoDB) + Insight Analysis (Deepseek, Claude 3.5 Sonnet, Ministral 8b)
 - [🧑‍💻 e-GMAT Review Analysis](https://github.com/GYaamini/e-GMAT-Review-Analysis) -  Feature Engineering (SpaCy) + Dash Interactive Analysis + Insight generation (Llama 3 8b instruct LLM) + SQLite querying
 - [🚀 SpaceX Rocket Landing Prediction](https://github.com/GYaamini/Applied-Data-Science-Capstone-Project) – Data Collection + Feature Engineering + Dash Interactive Analysis + ML Predictive Analysis with 83% accuracy  
 - [🕉️ EDA on Root of Sanskrit Words](https://www.kaggle.com/code/hsgowriyaamini/sanskrit-words-data-cleaning-and-visualisation/notebook?scriptVersionId=231168219) – Data Collection + Data Cleaning + EDA
