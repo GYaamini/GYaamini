@@ -24,7 +24,7 @@
 **Data Engineering & Visualization**  
 `Pandas` `NumPy` `Matplotlib` `Plotly` `Dash` `SQL` `ETL Pipelines`
 
-## 🎯 Featured Projects (15 Total)
+## 🎯 Featured Projects
 
 ### 🔬 **Research Projects (Published)**
 * [**🚗 Autonomous Vehicle Vision System**](https://www.sciencedirect.com/science/article/pii/S2215016125000263) - YOLOv8 for Indian road conditions with 22,400 manually collected images. **Published: MethodsX Journal 2025**
