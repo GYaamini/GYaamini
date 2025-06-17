@@ -1,6 +1,6 @@
 # 👋 Hi! I'm H S Gowri Yaamini
 
-**AI/ML Engineer & Data Scientist | MCA-AI & Data Science Graduate (9.90 CGPA) | Published Researcher**
+**AI/ML Application Engineer & Data Scientist | MCA-AI & Data Science Graduate (9.90 CGPA) | Published Researcher**
 
 🎓 **MCA in AI & Data Science** from Amrita Vishwa Vidyapeetham  
 🔬 **2 Published Papers** in AI/Computer Vision  
